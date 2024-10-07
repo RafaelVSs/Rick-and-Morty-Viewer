@@ -1,2 +1,3 @@
-Rafael Veríssimo da Silva
-Bruno Algarte
+- *Rafael Veríssimo da Silva*
+
+- *Bruno Algarte*
