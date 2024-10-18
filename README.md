@@ -6,7 +6,7 @@ Este é um aplicativo mobile desenvolvido com React Native CLI que permite aos u
 
 * **Pesquisar personagens:** Busca personagens pelo nome na API do Rick and Morty.
 * **Adicionar personagens:**  Adiciona o card do personagem a uma lista de visualização.
-* **Visualizar detalhes:** Permite que o usuário visualize informações detalhadas sobre um personagem, como espécie, origem, localização e episódios em que apareceu.
+* **Visualizar detalhes:** Permite que o usuário visualize informações detalhadas sobre um personagem, como espécie, origem, localização e o ultimo episódio em que apareceu.
 * **Remover personagens:** Remove o card do personagem da lista de visualização.
 
 ## Tecnologias utilizadas
